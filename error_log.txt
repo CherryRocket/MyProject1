@@ -1,0 +1,5 @@
+РћС€РёР±РєР° PHPMailer: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 10053 Additional SMTP info: Программа на вашем хост-компьютере разорвала установленное подключение.
+
+РћС€РёР±РєР° PHPMailer: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+РћС€РёР±РєР° PHPMailer: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 10060 Additional SMTP info: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+
